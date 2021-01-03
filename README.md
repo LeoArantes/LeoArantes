@@ -2,12 +2,12 @@
 
 ---
 
-<img align="right" height="150px" width="150px" src="https://github.com/LeoArantes/LeoArantes/blob/main/rhcp.png" />
+<img align="right" height="110px" width="110px" src="https://github.com/LeoArantes/LeoArantes/blob/main/rhcp.png" />
 
 
-💻 | I'm a computer science student in Brazil
-🚀️ | Working with C/C++ development
-👀️ | JavaScript Enthusiast
+💻 | I'm a computer science student in Brazil <br/>
+🚀️ | Working with C/C++ development <br/>
+👀️ | JavaScript Enthusiast <br/>
 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
