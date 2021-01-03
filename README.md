@@ -2,7 +2,7 @@
 
 ---
 
-<img align="right" src="https://github.com/LeoArantes/LeoArantes/blob/main/rhcp.png" />
+<img align="right" height="150px" width="150px" src="https://github.com/LeoArantes/LeoArantes/blob/main/rhcp.png" />
 
 
 💻 | I'm a computer science student in Brazil
