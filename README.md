@@ -1,7 +1,5 @@
 # Hi, I'm Leo 👋😜
 
----
-
 <img align="right" height="110px" width="110px" src="https://github.com/LeoArantes/LeoArantes/blob/main/rhcp.png" />
 
 
