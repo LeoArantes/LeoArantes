@@ -1,10 +1,10 @@
-# Hi, I'm Leo 👋😜
+# Hello there! I'm Leo 👋😜
 
 <img align="right" height="110px" width="110px" src="https://github.com/LeoArantes/LeoArantes/blob/main/rhcp.png" />
 
 
 💻 | I'm a computer science student in Brazil <br/>
-🚀️ | Working with C/C++ development <br/>
+🚀️ | C/C++ developer <br/>
 👀️ | JavaScript Enthusiast <br/>
 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
